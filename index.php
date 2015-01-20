@@ -5,7 +5,7 @@
 <title>Untitled Document</title>
 </head>
 <?php
-echo "PHP WEBSITE ON AZURE!";
+echo "PHP WEBSITE DEPLOYED ON AZURE!";
 ?>
 <body style="background-color:#990000; color:#FFFFFF; font-size:24px">
 </body>

@@ -5,7 +5,7 @@
 <title>Untitled Document</title>
 </head>
 <?php
-echo "My first PHP script!";
+echo "PHP WEBSITE ON AZURE!";
 ?>
 <body style="background-color:#990000; color:#FFFFFF; font-size:24px">
 </body>

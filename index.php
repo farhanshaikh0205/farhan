@@ -3,10 +3,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>Untitled Document</title>
+
 </head>
 <?php
-echo "My first PHP script!";
+echo "Welcome! My first PHP script! ";
 ?>
-<body>
+<body style="background-color:#990000; color:#FFFFFF; font-size:24px">
 </body>
 </html>

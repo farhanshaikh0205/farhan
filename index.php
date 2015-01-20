@@ -7,6 +7,6 @@
 <?php
 echo "My first PHP script!";
 ?>
-<body>
+<body style="background-color:#990000; color:#FFFFFF; font-size:24px">
 </body>
 </html>

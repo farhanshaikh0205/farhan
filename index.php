@@ -2,19 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<<<<<<< HEAD
-<title>Untitled Document</title>
-
+<title>Php - Azure Websites</title>
 </head>
 <?php
-echo "Welcome! My first PHP script! ";
-=======
-<title>PHP WEBSITE-AZURE</title>
-</head>
-<?php
-echo "PHP WEBSITE DEPLOYED ON AZURE!";
->>>>>>> origin/master
+echo "Welcome! Php website deployed on Azure!";
 ?>
-<body style="background-color:#990000; color:#FFFFFF; font-size:24px">
+<body style="background-color:#3399FF; font-size:18px; color:#FFFFFF">
 </body>
 </html>

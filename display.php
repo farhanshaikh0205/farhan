@@ -2,7 +2,7 @@
 $servername = "ap-cdbr-azure-southeast-a.cloudapp.net";
 $username = "bee5b8f8c6e974";
 $password = "e0bcfff2";
-$dbname = "mysqlmigration";
+$dbname = "phppocaq5avollzv";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
